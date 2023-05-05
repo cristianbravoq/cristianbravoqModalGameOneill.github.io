@@ -61,6 +61,7 @@
   background: url(imgOneill/Olas.png) repeat-x 0px 0px;
   width: 65px;
   height: 57px;
+  transform: rotate(20deg);
   animation: animarOla 0.35s steps(2) infinite;
 }
 
